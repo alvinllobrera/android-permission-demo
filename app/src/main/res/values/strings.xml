@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleAndroidApp</string>
+    <string name="wifi_check_act">Wifi Checker</string>
+    <string name="file_maker_act">File Maker</string>
+</resources>
